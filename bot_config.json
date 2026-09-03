@@ -1,20 +1,6 @@
 {
+  "token": "8539149669:AAEQv6KT9BWnHorRZaD1atZXQY8zteyeBHY",
   "shop_url": "https://meeshoopo-production.up.railway.app",
-  "bots": [
-    {
-      "token": "8539149669:AAEQv6KT9BWnHorRZaD1atZXQY8zteyeBHY",
-      "bot_username": "meshojaybot",
-      "welcome_text": "🤖 <b>Meesho Mini 1</b>\n\nTap below to order."
-    },
-    {
-      "token": "8839521261:AAFjpwMHtt3TtECRmfKHirqUw0i7tPUQRpQ",
-      "bot_username": "offermeeshobot",
-      "welcome_text": "🤖 <b>Meesho Mini 2</b>\n\nTap below to order."
-    },
-    {
-      "token": "8842681371:AAEEsvdicq3mRYaYXgl3yGE6uty5OGseMEo",
-      "bot_username": "ofermeeshobot",
-      "welcome_text": "🤖 <b>Meesho Mini 3</b>\n\nTap below to order."
-    }
-  ]
+  "bot_username": "meshojaybot",
+  "welcome_text": "🤖 <b>Meesho Mini 1</b>\n\nTap below to order."
 }
